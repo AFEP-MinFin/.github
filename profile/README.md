@@ -12,7 +12,13 @@
 
 
 ## Wie is Directie AFEP?
+Directie Algemene Financiële en Economische Politiek is de economische stafdirectie van het ministerie van Financiën en heeft overzicht over het hele financieel-economische beleid (uitgaven en inkomsten). De directie adviseert de bewindspersonen en de ambtelijke leiding over lopende beleidsvraagstukken vanuit een economische invalshoek, met een brede blik op de effecten voor economie, markt en samenleving.
 
 ## Wat doen wij?
 
+
 ## Onze projecten
+
+Volg onze publieke projecten:
+1. volgt snel
+2 volgt snel
