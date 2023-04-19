@@ -12,8 +12,8 @@
 -->
 
 
-### Wie is Directie AFEP?
+## Wie is Directie AFEP?
 
-### Wat doen wij?
+## Wat doen wij?
 
-### Onze projecten
+## Onze projecten
