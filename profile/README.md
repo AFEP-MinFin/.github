@@ -11,14 +11,18 @@
 -->
 
 
-## Wie is Directie AFEP?
+## Wat doet de Directie AFEP?
 Directie Algemene Financiële en Economische Politiek is de economische stafdirectie van het ministerie van Financiën en heeft overzicht over het hele financieel-economische beleid (uitgaven en inkomsten). De directie adviseert de bewindspersonen en de ambtelijke leiding over lopende beleidsvraagstukken vanuit een economische invalshoek, met een brede blik op de effecten voor economie, markt en samenleving.
 
-## Wat doen wij?
+## Waarom deze GitHub pagina?
+Aan de hand van data doen wij onderzoek naar economische vraagstukken. De uitkomsten van deze onderzoeken willen wij publiekelijk delen om vervolgonderzoek te stimuleren en transparant te zijn over onze gebruikte methodes. Gevoelige (PII) of non-publieke data wordt nooit meegepubliseerd. Wij nodigen iedereen uit om voort te bouwen op onze analyses, ons te contacteren indien er op/aanmerkingen zijn.
+
+@minfin.nl
+
 
 
 ## Onze projecten
 
 Volg onze publieke projecten:
 1. volgt snel
-2 volgt snel
+2. volgt snel
