@@ -17,7 +17,7 @@ Directie Algemene Financiële en Economische Politiek is de economische stafdire
 ## Waarom deze GitHub pagina?
 Aan de hand van data doen wij onderzoek naar economische vraagstukken. De uitkomsten van deze onderzoeken willen wij publiekelijk delen om vervolgonderzoek te stimuleren en transparant te zijn over onze gebruikte methodes. Gevoelige (PII) of non-publieke data wordt nooit gepubliceerd. Wij nodigen iedereen uit om voort te bouwen op onze analyses, of contact op te nemen met ons indien er vragen of op/aanmerkingen zijn.
 
-@minfin.nl
+AFEPdata at minfin.nl
 
 
 
